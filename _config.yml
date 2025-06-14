@@ -15,12 +15,15 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Thomas Molinier."
 email: 'thomasmoliniermail@gmail.com'
-description: "I'm a maths student from ETH Zurich."
+description: "And I'm an Applied Mathematics Master’s student at ETH Zurich, currently wrapping up my thesis at NUS Singapore. Right now, I’m exploring the exciting intersection between quantitative finance, AI, and machine learning, particularly focusing on generative AI and large language models (LLMs).<br>
+<br>
+I’m naturally curious, a fast learner, and thrive on new challenges. Whether it’s fine-tuning an LLM to discover hidden patterns or exploring innovative ways to tackle complex data challenges—I love diving in, experimenting, figuring things out and turning complicated problems into clear, practical solutions. If I don’t already know something, I’ll pick it up quickly—and I’ll probably enjoy doing it.<br>
+<br>
+I’m looking to start my career in an AI-driven, quantitative, or machine learning role. If you’re working on interesting challenges and need someone smart, adaptable, and genuinely excited to learn and grow, let’s talk!"
 baseurl: "/thomas-portfolio" # the subpath of your site, e.g. /blog
 url: "https://tototozip.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'none'
-github_username: 'tototozip'
-medium_username: 'none'
+linkedin_username: 'thomas-molinier-b226a5269/'
+mail_username: 'thomasmoliniermail@gmail.com'
 
 # destination: docs
 
