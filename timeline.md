@@ -1,7 +1,7 @@
 ---
 layout: inner
-title: Life Thread
-permalink: /lifethread/
+title: Timeline
+permalink: /timeline/
 ---
 
 ## My Journey So Far
@@ -11,6 +11,8 @@ permalink: /lifethread/
 ### Future Projects
 
 📊**Learn more SQL**
+
+📈**Bloomberg Market Concepts Certificate**
 
 📔**Explore AWS**
 

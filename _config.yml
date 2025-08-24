@@ -106,4 +106,4 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/lifethread', text: 'Life thread' }
+  - { url: '/timeline', text: 'Timeline' }
