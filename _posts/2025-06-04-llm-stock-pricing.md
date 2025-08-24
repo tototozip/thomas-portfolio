@@ -6,8 +6,9 @@ date: 2025-06-04 18:00:00
 categories: research finance
 tags: [LLM, Stock-Pricing, Chain-of-Thought]
 featured_image: "/thomas-portfolio/img/posts/05_llm-stock-pricing.png"
-button_text: "Pending"
-button_icon: "hourglass-half"
+project_link: "/Users/thomasmolinier/thomas-portfolio/papers/ThesisMerged-7.pdf"
+button_text: "Read the Paper"
+button_icon: "file-pdf-o"
 lead_text: "Exploratory project using chain-of-thought–enabled large language models to derive fair values for equities from fundamental disclosures and macro signals."
 ---
 
