@@ -4,7 +4,7 @@ position: left
 title: "Teaching LLMs to Think Like Investors"
 date: 2025-06-04 18:00:00
 categories: research finance
-tags: [LLM, Stock-Pricing, Chain-of-Thought]
+tags: [LLM, Stock-Pricing, Chain-of-Thought, Quantitative Analysis, GRPO]
 featured_image: "/thomas-portfolio/img/posts/05_llm-stock-pricing.png"
 project_link: "/thomas-portfolio/papers/ThesisMerged-7.pdf"
 button_text: "Read the Paper"
