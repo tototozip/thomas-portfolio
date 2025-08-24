@@ -31,7 +31,7 @@ mail_username: 'thomasmoliniermail@gmail.com'
 markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
@@ -106,5 +106,4 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/projects', text: 'Projects' }
   - { url: '/lifethread', text: 'Life thread' }
