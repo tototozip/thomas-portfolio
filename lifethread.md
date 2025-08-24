@@ -12,7 +12,11 @@ permalink: /lifethread/
 
 📊**Learn more SQL**
 
-📲**Build an app with my friend**
+📔**Explore AWS**
+
+🧩**Project - Projection Population**
+
+🧩**Project - Game LLM** 
 
 ---
 
