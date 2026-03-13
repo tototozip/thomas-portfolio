@@ -52,6 +52,45 @@ p {
   font-size: 1.3em;
 }
 
+.timeline-icon-sprite {
+  position: absolute;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+}
+
+.timeline-icon {
+  width: 1.05em;
+  height: 1.05em;
+  margin-right: 0.45em;
+  vertical-align: -0.14em;
+  stroke: currentColor;
+  fill: none;
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.timeline-icon--work {
+  color: #2e4453;
+}
+
+.timeline-icon--education {
+  color: #c96a3a;
+}
+
+.timeline-icon--cert {
+  color: #c15b48;
+}
+
+.timeline-icon--research {
+  color: #4f7f74;
+}
+
+.timeline-icon--paper {
+  color: #8a6044;
+}
+
 a {
   @include transition(color .2s ease-in-out);
   &:hover {
